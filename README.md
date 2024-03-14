@@ -1,0 +1,1 @@
+This repository contains a simple Project Management System implemented in Java 17 and Spring Boot. It provides CRUD (Create, Read, Update, Delete) operations for managing projects and utilizes an in-memory H2 database for data storage.
